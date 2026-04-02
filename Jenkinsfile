@@ -8,7 +8,7 @@ pipeline {
 
             steps {
 
-                git 'https://github.com/2025sl93020/labsheet1-2025sl93020'
+                git 'https://github.com/2025sl93020/labsheet1-2025sl93020.git'
 
             }
 
